@@ -1,0 +1,11 @@
+*{
+    margin: 0.5rem;
+    padding: 0.2rem;
+    box-sizing: border-box;
+}
+html{background-color: white;}
+body{
+    min-height: 1633px;
+    max-width: 1633px;
+    margin:0 auto;
+}

@@ -1,0 +1,191 @@
+body{
+    display:flex;
+    flex-direction:column;
+}
+header{
+    display: flex;
+    width: 81.6rem;
+    height: 10rem;
+    padding: 2rem;
+    margin-bottom: 0rem;
+    background-color:rgb(168, 168, 168)
+    
+}
+.circle{
+    display: flex;
+    flex-direction: row;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: beige;
+    border-radius: 100rem;
+    margin-top: 1.8rem;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    width: 70rem;
+    height: 5rem;
+    background-color: beige;
+}
+section{
+    display:flex;
+    width: 81.6rem;
+    height: 5rem;
+    padding: 0rem;
+    background-color:rgb(56, 57, 70);
+    margin-top: 0rem;
+}
+.rectangle{
+    display: flex;
+    flex-direction:row;
+    width: 15rem;
+    height: 2rem;
+    padding: 1.5rem;
+    background-color: crimson;
+    margin-left: 62rem;
+    margin-top: 1rem;
+    
+}
+.lupa{
+    width: 5rem;
+    height: 5rem;
+    background-color: transparent;
+    margin-top: 0rem;
+}
+.contenido{
+    display: flex;
+    flex-direction: row;
+    width: 81.6rem;
+    height: 102rem;
+    background-color: transparent;
+}
+.izquierdo{
+    display: flex;
+    flex-direction: column;
+    width: 48rem;
+    height: 102rem;
+    background-color: transparent;
+    margin-top: 0rem;
+}
+nav{
+    display: flex;
+    width: 48rem;
+    height: 30rem;
+    background-color: rgb(168, 168, 168);
+    margin-left: 1rem;
+}
+.cuadro1{
+    display: flex;
+    width: 38rem;
+    height: 3rem;
+    background-color: rgb(100, 99, 99);
+    margin-top: 24rem;
+    margin-left: 1rem;
+}
+article{
+    display: flex;
+    flex-direction: row;
+    width: 48rem;
+    height: 16rem;
+    background-color:transparent;
+    margin-left: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+.recuadros{
+    display: flex;
+    width: 16rem;
+    height: 14rem;
+    background-color: rgb(168, 168, 168);
+    margin-left: 0rem;
+    margin-right: 1.5rem;
+}
+.recuadros2{
+    display: flex;
+    width: 16rem;
+    height: 14rem;
+    background-color:rgb(168, 168, 168);
+    margin-left: 0rem;
+    margin-right: 1.5rem;
+}
+footer{
+    display: flex;
+    width: 48rem;
+    height: 30rem;
+    background-color: transparent;
+    margin-left: 1rem;
+    flex-direction: row;
+}
+.recuadro3{
+    display: flex;
+    width: 13rem;
+    height: 9rem;
+    background-color: rgb(168, 168, 168);
+    margin-top: 3rem;
+    margin-left: 0rem;
+}
+.lineas{
+    display: flex;
+    flex-direction: column;
+    width: 32.7rem;
+    height: 15rem;
+    background-color: transparent;
+    margin-top: 3rem;
+}
+.linea1{
+    display: flex;
+    width: 32.7rem;
+    height: 3rem;
+    background-color: rgb(100, 99, 99)
+}
+.linea2{
+    display: flex;
+    width: 32.7rem;
+    height: 2.5rem;
+    background-color: rgb(168, 168, 168);
+}
+.linea3{
+    display: flex;
+    width: 6rem;
+    height: 2rem;
+    background-color: rgb(168, 168, 168);
+}
+.derecho{
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    height: 93rem;
+    background-color: transparent;
+    margin-top: 0rem;
+}
+aside{
+    display: flex;
+    width: 30rem;
+    height: 100rem;
+    background-color: rgb(214, 214, 214);
+    flex-direction: column;
+
+}
+.cuadroT{
+    display:flex;
+    width: 15rem;
+    height: 3rem;
+    background-color: transparent;
+}
+.recuadros4{
+    display: flex;
+    width: 15rem;
+    height: 8rem;
+    background-color: rgb(168, 168, 168);
+    margin-left: 13rem;
+    margin-top: 3rem;
+    margin-bottom: 0rem;
+}
+.recuadro5{
+    display: flex;
+    width: 27.5rem;
+    height: 25rem;
+    background-color: rgb(148, 148, 148);
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
